@@ -1,16 +1,5 @@
 # beatuifuldesign
 
-A new Flutter project.
+Designs
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![design_1](https://user-images.githubusercontent.com/43606961/191070924-fca31b43-2c75-40d6-a560-d62f1af8066a.jpg)
